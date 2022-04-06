@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niteshagrawal
 - 👀 I’m interested in building custom rom, making websites
-- 🌱 I’m currently learning Javascript, angular
+- 🌱 I’m currently learning Ionic
 - 📫 How to reach me [TG: @AssGuardGod]
 
 <!---
