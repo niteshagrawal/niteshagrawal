@@ -29,10 +29,6 @@
 
 <br/>
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
-<br/>
-
 <!---
 niteshagrawal/niteshagrawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
