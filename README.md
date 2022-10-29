@@ -1,6 +1,6 @@
 <div align="center">
   
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=niteshagrawal&data=followers,repositories,stars,commits)]
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=niteshagrawal&data=followers,repositories,stars,commits)
 
   
  👀 I’m interested in building custom rom, making websites
