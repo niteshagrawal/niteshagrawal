@@ -7,7 +7,7 @@
   <br/>
  📫 How to reach me [TG: @AssGuardGod]
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+currently+learning+NextJS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+playing+with+kube+clouds)](https://git.io/typing-svg)
 
   
 </div>
